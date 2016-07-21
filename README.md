@@ -1,2 +1,3 @@
-# rebase-sample
-Sample for using rebase in git
+# Пример использования rebase
+
+Репозиторий для демонстрации использования rebase в git.
